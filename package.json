@@ -1,6 +1,6 @@
 {
   "name": "blackletter.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a view framework",
   "main": "lib/view.js",
   "files": "lib/*.js",
@@ -12,18 +12,20 @@
   "author": "aetherised",
   "license": "ISC",
   "dependencies": {
-    "babel-core": "^6.26.3",
-    "babel-loader": "^7.1.5",
-    "babel-preset-env": "^1.7.0",
-    "css-loader": "^1.0.0",
-    "handlebars": "^4.0.11",
+    "deepstate.js": "^0.1.0",
+    "enum.js": "^0.1.1",
+    "handlebars": "^4.0.11"
+  },
+  "devDependencies": {
     "handlebars-loader": "^1.7.0",
     "style-loader": "^0.21.0",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
-    "webpack": "^4.15.1"
-  },
-  "devDependencies": {
+    "webpack": "^4.15.1",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^1.0.0",
     "chai": "^4.2.0",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
