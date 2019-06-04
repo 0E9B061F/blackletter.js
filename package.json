@@ -1,6 +1,6 @@
 {
   "name": "blackletter.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "a view framework",
   "main": "lib/view.js",
   "files": "lib/*.js",
