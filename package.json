@@ -1,9 +1,9 @@
 {
   "name": "blackletter.js",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "a view framework",
   "main": "lib/view.js",
-  "files": "lib/*.js",
+  "files": ["lib/*.js"],
   "scripts": {
     "test": "mocha",
     "build": "webpack",
