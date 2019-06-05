@@ -1,6 +1,6 @@
 {
   "name": "blackletter.js",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "a view framework",
   "main": "lib/view.js",
   "files": ["lib/*.js"],
@@ -11,7 +11,7 @@
     "pub": "npm publish --registry http://localhost:4873"
   },
   "author": "aetherised",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "deepstate.js": "^0.1.1",
     "enum.js": "^0.1.1",
