@@ -13,8 +13,8 @@
   "author": "aetherised",
   "license": "MIT",
   "dependencies": {
-    "deepstate.js": "^0.1.1",
-    "enum.js": "^0.1.1",
+    "deepstate.js": "https://github.com/aetherised/deepstate.js.git",
+    "enum.js": "https://github.com/aetherised/enum.js.git",
     "handlebars": "^4.0.11"
   },
   "devDependencies": {
